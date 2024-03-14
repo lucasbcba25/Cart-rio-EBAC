@@ -127,7 +127,7 @@ int main ()
     	printf("\t1 - Registrar nomes\n");
     	printf("\t2 - Consultar nomes\n");
     	printf("\t3 - Deletar nomes\n\n"); //Fim do menu
-    	printf("\t4 - Sair do Cartório\n\n");
+    	printf("\t4 - Sair do Cartório de Registro\n\n");
     	printf("Selecione a opção desejada:"); //Selecionar a opção desejada
 	
     	scanf("%d", &opcao); //Armazenando a escolha do usuário
